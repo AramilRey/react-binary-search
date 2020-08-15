@@ -1,0 +1,48 @@
+.binary-search {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .binary-search .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .binary-search .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+  }
+  
+  .binary-search .index {
+    font-size: 10px;
+    color: gray;
+    padding: 10px;
+    justify-content: flex-end;
+  }
+  
+  .binary-search .item {
+    justify-content: center;
+    max-width: 40px;
+    height: 50px;
+    font-size: 10px;
+  }
+  
+  .binary-search .item.middle {
+    background-color: yellow;
+  }
+  
+  .binary-search .item.inactive {
+    background-color: red;
+  }
+  
+  .binary-search .item.active,
+  .binary-search .index.found {
+    color: white;
+    background-color: green;
+  }
+  

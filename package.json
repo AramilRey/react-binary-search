@@ -1,0 +1,17 @@
+{
+  "name": "react-binary-search",
+  "version": "1.0.0",
+  "description": "Binary search visualization - react component",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AramilRey/react-binary-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AramilRey/react-binary-search/issues"
+  },
+  "homepage": "https://github.com/AramilRey/react-binary-search#readme"
+}
